@@ -1,2 +1,2 @@
-練習用リポジトリ
-# devtraining
+# 練習用
+## TODO
